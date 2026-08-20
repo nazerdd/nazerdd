@@ -12,11 +12,11 @@
 isim:       Naz
 rol:        Siber Güvenlik Araştırmacısı / Bilgisayar Mühendisi
 odak:       Siber Güvenlik · Sızma Testleri (Pentest) · Ağ Güvenliği
-şu_an:      CTF'ler çözüyor ve güvenlik zafiyetleri üzerine çalışıyor
-ilgi_alanı: Cyber Security, Ethical Hacking, Bilgi Güvenliği
+şu_an:      cloud security araştırıyor ve proje geliştiriyor
+ilgi_alanı: Cyber Security, Ethical Hacking,cloud
 
-🎓 3,51 not ortalaması ile Bilgisayar Mühendisliğinden mezun oldum.
-💻 Ağ güvenliği, sızma testleri ve zararlı yazılım analizi üzerine çalışıyorum.
+
+💻 Ağ güvenliği, sızma testleri ve zararlı yazılım analizi üzerine çalışıyorum.bir yandan da cloud öğreniyorum.
 🛡️ Cyber Security alanına derin bir ilgi duyuyorum ve bu alanda kendimi geliştiriyorum.
 🌱 Her gün yeni bir zafiyet ve savunma yöntemi öğrenmeye devam ediyorum.
 📫 Bana ulaşmak veya iş birliği yapmak isterseniz aşağıdaki kanallardan iletişime geçebilirsiniz.
@@ -27,17 +27,17 @@ ilgi_alanı: Cyber Security, Ethical Hacking, Bilgi Güvenliği
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a> 
   <a href="https://linkedin.com/in/naz"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+    <img src="https://www.linkedin.com/in/naz-erdem-52205a356/&logo=linkedin&logoColor=white" /> 
   </a> 
   <a href="https://medium.com/@naz"> 
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /> 
+    <img src="https://medium.com/@nazerdem0664&logo=medium&logoColor=white" /> 
   </a> 
 </div> 
 <br> 
 
 <div align="center"> 
   Diller & Teknolojiler <br>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,bash,c,cpp,regex,powershell&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,c&theme=dark" /> 
   <br><br>
   Araçlar & Platformlar <br>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vim,cloudflare,aws,azure,nginx&theme=dark" /> 
