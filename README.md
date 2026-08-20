@@ -10,10 +10,16 @@
 <br> 
 
 isim:       Naz
-rol:        Siber Güvenlik Araştırmacısı / Bilgisayar Mühendisi
+
+rol:        Siber Güvenlik Araştırmacısı / Bilgisayar Mühendisliği öğrencisi
+
 odak:       Siber Güvenlik · Sızma Testleri (Pentest) · Ağ Güvenliği
+
 şu_an:      cloud security araştırıyor ve proje geliştiriyor
+
 ilgi_alanı: Cyber Security, Ethical Hacking,cloud
+
+
 
 
 💻 Ağ güvenliği, sızma testleri ve zararlı yazılım analizi üzerine çalışıyorum.bir yandan da cloud öğreniyorum.
@@ -22,18 +28,24 @@ ilgi_alanı: Cyber Security, Ethical Hacking,cloud
 📫 Bana ulaşmak veya iş birliği yapmak isterseniz aşağıdaki kanallardan iletişime geçebilirsiniz.
 <br> 
 
+
+
 <div align="center"> 
-  <a href="mailto:naz@example.com"> 
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  <!-- Gmail -->
+  <a href="mailto:nazerdem62@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> 
   </a> 
-  <a href="https://linkedin.com/in/naz"> 
-    <img src="https://www.linkedin.com/in/naz-erdem-52205a356/&logo=linkedin&logoColor=white" /> 
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/naz-erdem-52205a356/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
   </a> 
-  <a href="https://medium.com/@naz"> 
-    <img src="https://medium.com/@nazerdem0664&logo=medium&logoColor=white" /> 
+  
+  <!-- Medium -->
+  <a href="https://medium.com/@nazerdem0664"> 
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> 
   </a> 
-</div> 
-<br> 
+</div>
 
 <div align="center"> 
   Diller & Teknolojiler <br>
